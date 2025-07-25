@@ -10,7 +10,7 @@
 - 🧠 Currently learning: **Terraform**, **ArgoCD**, **AWS Lambda**, **EKS**
 - 👯 I’m looking to collaborate on: **Cloud-native applications & automation pipelines**
 - 💬 Ask me about: Docker, Jenkins, AWS, GitHub Actions, Linux, Monitoring
-- 📫 How to reach me: **moiz.devops@example.com**
+- 📫 How to reach me: **moizansari.india@gmail.com**
 - ⚡ Fun fact: I love scripting everything I hate repeating 😄
 
 ---
