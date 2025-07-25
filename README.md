@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moiz Ansari</h1>
-<h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
+<h3 align="center">🚀 DevOps Engineer | CI/CD Expert | Cloud Enthusiast 🌩️</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Automating+Everything!;Cloud-Native+Engineer;CI%2FCD+Pipeline+Expert;Infrastructure+as+Code+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 ---
 
