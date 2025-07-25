@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/moizansari-dev" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-Moiz%20Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:moiz.devops@example.com">
+  <a href="mailto:moizansari.india@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MoizAnsari-Dev">
