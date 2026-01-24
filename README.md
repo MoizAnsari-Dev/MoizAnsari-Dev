@@ -1,79 +1,79 @@
 <h1 align="center">Hi 👋, I'm Moiz Ansari</h1>
-<h3 align="center">🚀 DevOps Engineer | CI/CD Expert | Cloud Enthusiast 🌩️</h3>
+<h3 align="center">🚀 DevOps Engineer | SRE | Cloud Enthusiast 🌩️</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Automating+Everything!;Cloud-Native+Engineer;CI%2FCD+Pipeline+Expert;Infrastructure+as+Code+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoizAnsari-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
 ### 🚀 About Me
 
 - 🔧 I automate infrastructure, CI/CD, and deployments to scale applications faster and safer.
-- 🔭 Currently building: Microservices with Docker, Kubernetes, and GitHub Actions
-- 🧠 Currently learning: **Terraform**, **ArgoCD**, **AWS Lambda**, **EKS**
+- 🔭 Currently building: **Microservices with Docker, Kubernetes, and GitHub Actions**
+- 🧠 Currently learning: **Terraform, ArgoCD, AWS Lambda, EKS**
 - 👯 I’m looking to collaborate on: **Cloud-native applications & automation pipelines**
-- 💬 Ask me about: Docker, Jenkins, AWS, GitHub Actions, Linux, Monitoring
-- 📫 How to reach me: **moizansari.india@gmail.com**
-- ⚡ Fun fact: I love scripting everything I hate repeating 😄
+- 💬 Ask me about: **System Design, Cloud Security, Linux Kernels, & K8s Architecture**
+- ⚡ Fun fact: **"I treat servers like cattle, not pets."** 🐮
 
 ---
 
 ### 🛠️ Tools & Tech Stack
 
-#### 🚀 DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-</p>
+<div align="center">
 
-#### 🧰 Monitoring & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,terraform,ansible&perline=6" />
+  </a>
+  <br><br>
 
-#### 💻 Code & Scripting
-<p>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,maven,jenkins,bash,python,nodejs&perline=7" />
+  </a>
+  
+  <p><i>(Hover over icons for names!)</i></p>
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoizAnsari-Dev&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoizAnsari-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoizAnsari-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoizAnsari-Dev&theme=tokyonight"/>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoizAnsari-Dev&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github.com/MoizAnsari-Dev/MoizAnsari-Dev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 
 ### 🔗 Connect with me
 
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/moizansari-dev" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Moiz%20Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:moizansari.india@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/MoizAnsari-Dev">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
-</p>
+</div>
 
 ---
 
-✨ _"Build systems, not headaches."_  
+<p align="center">✨ <i>"Build systems, not headaches."</i> ✨</p>
