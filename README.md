@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🔧 I automate infrastructure, CI/CD, and deployments to scale applications faster and safer.
 - 🔭 Currently building: **Microservices with Docker, Kubernetes, and GitHub Actions**
@@ -40,7 +40,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <img src="https://raw.githubusercontent.com/MoizAnsari-Dev/MoizAnsari-Dev/output/snake.svg" alt="Snake animation" />
 
