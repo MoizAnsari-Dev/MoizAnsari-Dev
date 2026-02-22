@@ -42,22 +42,9 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoizAnsari-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoizAnsari-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
+<img src="https://raw.githubusercontent.com/MoizAnsari-Dev/MoizAnsari-Dev/output/snake.svg" alt="Snake animation" />
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoizAnsari-Dev&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github.com/MoizAnsari-Dev/MoizAnsari-Dev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
+###
 ---
 
 ### 🔗 Connect with me
